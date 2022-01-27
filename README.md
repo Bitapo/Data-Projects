@@ -1,9 +1,11 @@
 # Data-Projects
 
+Castone2:
 Predicting Total Claims Payments by the Insurance Company:
 
 https://public.tableau.com/app/profile/bita.pouyanfar/viz/PredictingUltimateIncurredClaimCost/Predictingtotalclaimspayments?publish=yes
 
+Capstone1:
 Spotify Analysis:
 
 • Examined Spotify data and Uncovered insights to determine factors that might affect the popularity of songs and artists 
