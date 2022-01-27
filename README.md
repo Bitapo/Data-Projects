@@ -20,3 +20,6 @@ The purpose of this work is to prevent the loss of future market share through t
 
 https://public.tableau.com/app/profile/bita.pouyanfar/viz/ChemCorpAnalysis_3/ChemCorpTehnicalStory
 
+Exploring America's Energy Network:
+
+https://public.tableau.com/app/profile/bita.pouyanfar/viz/AEMRcasestudy_16336545936650/Story1
