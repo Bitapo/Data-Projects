@@ -14,3 +14,9 @@ Spotify Analysis:
 
 https://public.tableau.com/app/profile/bita.pouyanfar/viz/SpotifyAnalysis_16319210916270/PopularityinSpotify
 
+ChemCorp Analysis:
+
+The purpose of this work is to prevent the loss of future market share through the identification of future growth industries and identification of at least one divestment product in at least one of our industries in ChemCorp
+
+https://public.tableau.com/app/profile/bita.pouyanfar/viz/ChemCorpAnalysis_3/ChemCorpTehnicalStory
+
